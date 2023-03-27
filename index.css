@@ -1,0 +1,22 @@
+
+.medio_depago {
+    color:#EF7A09ff !important; 
+    font-weight: bold;
+}
+.nav-item .nav-link {
+    color: black;
+}
+
+#header img {
+ width: 130px;   
+}
+
+
+#footer {
+    background: #3F9391;
+}
+
+#footer a {
+    color: white;
+    text-decoration: none;
+}
